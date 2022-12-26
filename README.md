@@ -1,6 +1,6 @@
 ### Olá, me chamo Caique
 
-Estou aprendendo React <br>
+Estou aprendendo Python <br>
 Fun fact: Sou editor da Genius
 
 <div align="left" display="flex">
