@@ -1,10 +1,13 @@
-### Olá, me chamo Caique
+### Languages
+  [![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 
-Estou aprendendo Python <br>
-Fun fact: Sou editor da Genius
+### Frameworks and libraries
+ [![My Skills](https://skillicons.dev/icons?i=react,vue,fastapi,express,ts,redux,tailwind,jest)](https://skillicons.dev)
+ 
+### Database and ORMs
 
-<div align="left" display="flex" style="width: 100%;">
-  <a href="https://github.com/kiq17" style="display: block;">
-  <img style="width: 60%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiq17&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase,prisma,sequelize)](https://skillicons.dev)
+
+### Current stack
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,prisma,react)](https://skillicons.dev)
