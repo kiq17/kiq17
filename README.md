@@ -1,13 +1,13 @@
 ### Languages
-  [![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=Python,javascript&theme=light)](#)
 
 ### Frameworks and libraries
- [![My Skills](https://skillicons.dev/icons?i=react,vue,fastapi,express,ts,redux,tailwind,jest)](https://skillicons.dev)
+  [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,vuedotjs,fastapi,express,typescript,redux,tailwindcss,jest,vitest,testinglibrary,pydantic,pytest,jsonwebtokens,reactrouter&theme=light)](#)
+
  
 ### Database and ORMs
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,firebase,prisma,sequelize)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=mysql,mongodb,sqlite,postgresql,firebase,prisma,sequelize,sqlalchemy,mongoose&theme=light)](#)
 
 ### Current stack
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,prisma,react)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=Python,fastapi,vuedotjs,postgresql,sqlalchemy&theme=light)](#)
