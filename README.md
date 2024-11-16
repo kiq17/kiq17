@@ -1,13 +1,15 @@
-### Languages
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=Python,javascript,typescript&theme=light)](#)
+Formado em Tecnologia de Sistemas de Informação buscando oportunidade na área de tecnologia, atualmente trabalhando na área industrial.
 
-### Frameworks and libraries
-  [![My Skills](https://simpleskill.icons.workers.dev/svg?i=react,vuedotjs,fastapi,express,nodedotjs,redux,tailwindcss,jest,vitest,testinglibrary,pydantic,pytest,jsonwebtokens,reactrouter&theme=light&perline=5)](#)
+Conhecimentos em Javascript, TypeScript, Python e C#.
 
- 
-### Database and ORMs
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=mysql,mongodb,sqlite,postgresql,firebase,prisma,sequelize,sqlalchemy,mongoose&theme=light&perline=5)](#)
+Possuindo também conhecimentos sobre frameworks e ferramentas de testes referentes à estas linguagens citadas acima.
 
-### Current stack
+Busco criar projetos para colocar em prática a teoria aprendida, você pode visualizar alguns deles abaixo:
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=Python,fastapi,vuedotjs,postgresql,sqlalchemy&theme=light)](#)
+## [Ondeir](https://github.com/kiq17/ondeir-front)
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,react,tailwind&theme=dark)](https://skillicons.dev)
+
+## [Ecommerce estático](https://github.com/kiq17/ecommerce-static)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
