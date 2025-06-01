@@ -8,7 +8,11 @@ Busco criar projetos para colocar em prática a teoria aprendida, você pode vis
 
 ## [Ondeir](https://github.com/kiq17/ondeir-front)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,react,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,react,tailwind,vite&theme=dark)](https://skillicons.dev)
+
+## [Urban StreetWear](https://github.com/kiq17/ondeir-front)
+
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,vue,tailwind,pinia,vite&theme=dark)](https://skillicons.dev)
 
 ## [Ecommerce estático](https://github.com/kiq17/ecommerce-static)
 
