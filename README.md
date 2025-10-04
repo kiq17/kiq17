@@ -4,6 +4,10 @@ Conhecimentos em Javascript, TypeScript, Python e C#.
 
 Possuindo também conhecimentos sobre frameworks e ferramentas de testes referentes à estas linguagens citadas acima.
 
+<p align="center">
+  <a href="https://github.com/kiq17" target="blank"><img src="https://i.imgur.com/BdCZGXU.png" width="200"/></a>
+</p>
+
 Busco criar projetos para colocar em prática a teoria aprendida, você pode visualizar alguns deles abaixo:
 
 ## [Ondeir](https://github.com/kiq17/ondeir-front)
